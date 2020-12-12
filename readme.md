@@ -1,5 +1,3 @@
-Containers/Dockers/Kubernetes are the future :)
-
 # Sample .NET 4.0 project (Monolithic) using Windows container
 
 - A Sample .NET 4.0 project (Monolithic) using Windows container.
@@ -13,7 +11,6 @@ This project has ASP.NET Webforms, WebApi, Console application and WCF interacti
 # Purpose of repo
 - Backup.
 - Future reference.
-- Nostalgic feeling.
 
 # Steps
 
